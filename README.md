@@ -32,7 +32,7 @@ For Termux:
 ```htttp
   chmod +x scrapper.py
 ```
-5. Run the tool 'DefacePage-Generator'
+5. Run the tool 'WebScrapper Project'
 ```http
   python3 scrapper.py
 ```
